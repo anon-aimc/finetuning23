@@ -6,7 +6,7 @@
 
 (coming soon) get the package from the Releases tab
 
-right now, you need to build the Max object yourself and try the help patch in the `help` folder. Full compiled & documented release coming very soon!
+right now, you need to [build the Max object](#build-the-max-object-from-source-windows) yourself and try the help patch in the `help` folder. Full compiled & documented release coming very soon!
 
 ## training your own model
 
